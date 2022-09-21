@@ -1,3 +1,4 @@
+#Just testing
 ARG BASE_IMAGE_TAG=1.20.1
 FROM us-east1-docker.pkg.dev/core-workshop/workshop-registry/node:17-alpine as BUILDER
 WORKDIR /app
